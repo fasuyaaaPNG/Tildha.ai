@@ -3,7 +3,7 @@
                 <img src="https://github.com/user-attachments/assets/2ec5e31b-52d4-4c9e-b3d8-c652917f6dde" width="200" height="200" />
                 <h1 align='center'>Tildha.AI</h1>
                 <div align=center>
-                <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Your%20Health,%20Our%20Priority;Empowering%20Wellness%20with%20Tildha%20AI.;The%20Future%20of%20Personal%20Health.;Smarter%20Health%20Starts%20Here.;Where%20Technology%20Meets%20Wellness.;Elevate%20Your%20Health%20with%20Tildha%20AI.&font=VT323&center=true&width=650&height=70&color=01B744&vCenter=true&size=45%22"></a>
+                <a href="https://github.com/fasuyaaaPNG/Tildha.ai"><img src="https://readme-typing-svg.herokuapp.com/?lines=Your%20Health,%20Our%20Priority;Empowering%20Wellness%20with%20Tildha%20AI.;The%20Future%20of%20Personal%20Health.;Smarter%20Health%20Starts%20Here.;Where%20Technology%20Meets%20Wellness.;Elevate%20Your%20Health%20with%20Tildha%20AI.&font=VT323&center=true&width=650&height=70&color=01B744&vCenter=true&size=45%22"></a>
                 </div>
                 </p>
               <p align='center'>
